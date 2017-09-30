@@ -1,0 +1,11 @@
+c:\users\hp\documents\visual studio 2017\Projects\JwtWithCookieAuth\JwtWithCookieAuth\bin\Debug\netcoreapp2.0\JwtWithCookieAuth.deps.json
+c:\users\hp\documents\visual studio 2017\Projects\JwtWithCookieAuth\JwtWithCookieAuth\bin\Debug\netcoreapp2.0\JwtWithCookieAuth.runtimeconfig.json
+c:\users\hp\documents\visual studio 2017\Projects\JwtWithCookieAuth\JwtWithCookieAuth\bin\Debug\netcoreapp2.0\JwtWithCookieAuth.runtimeconfig.dev.json
+c:\users\hp\documents\visual studio 2017\Projects\JwtWithCookieAuth\JwtWithCookieAuth\bin\Debug\netcoreapp2.0\JwtWithCookieAuth.dll
+c:\users\hp\documents\visual studio 2017\Projects\JwtWithCookieAuth\JwtWithCookieAuth\bin\Debug\netcoreapp2.0\JwtWithCookieAuth.pdb
+c:\users\hp\documents\visual studio 2017\Projects\JwtWithCookieAuth\JwtWithCookieAuth\obj\Debug\netcoreapp2.0\JwtWithCookieAuth.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2017\Projects\JwtWithCookieAuth\JwtWithCookieAuth\obj\Debug\netcoreapp2.0\JwtWithCookieAuth.csproj.CoreCompileInputs.cache
+c:\users\hp\documents\visual studio 2017\Projects\JwtWithCookieAuth\JwtWithCookieAuth\obj\Debug\netcoreapp2.0\JwtWithCookieAuth.AssemblyInfoInputs.cache
+c:\users\hp\documents\visual studio 2017\Projects\JwtWithCookieAuth\JwtWithCookieAuth\obj\Debug\netcoreapp2.0\JwtWithCookieAuth.AssemblyInfo.cs
+c:\users\hp\documents\visual studio 2017\Projects\JwtWithCookieAuth\JwtWithCookieAuth\obj\Debug\netcoreapp2.0\JwtWithCookieAuth.dll
+c:\users\hp\documents\visual studio 2017\Projects\JwtWithCookieAuth\JwtWithCookieAuth\obj\Debug\netcoreapp2.0\JwtWithCookieAuth.pdb
