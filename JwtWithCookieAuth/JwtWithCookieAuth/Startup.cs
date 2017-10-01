@@ -41,16 +41,14 @@ namespace JwtWithCookieAuth
                 options.TokenValidationParameters = new TokenValidationParameters
                 {
                     ValidateAudience = false,
-                    //ValidAudience = "the audience you want to validate",
                     ValidateIssuer = false,
-                    //ValidIssuer = "the isser you want to validate",
 
                     ValidateIssuerSigningKey = true,
                     IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("thisisasecreteforauth")),
 
-                    ValidateLifetime = true, //validate the expiration and not before values in the token
+                    ValidateLifetime = true,
 
-                    ClockSkew = TimeSpan.FromMinutes(5) //5 minute tolerance for the expiration date
+                    ClockSkew = TimeSpan.FromMinutes(5)
                 };
             });
         }
